@@ -1,0 +1,17 @@
+a:hover{
+    text-decoration: none;
+}
+
+.App{
+    width: 100px;
+    height: 100vh;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+}
+
+@media(min-width: 1399px) {
+    .App{
+        display: flex;
+    }
+}
